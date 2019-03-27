@@ -1,1 +1,1 @@
-Hello, Welcome to class devops;
+this is practice for home sesssion;
